@@ -11,8 +11,9 @@ class Tabs extends React.Component{
     return (
       <article>
         <ul>
-
-          <h1></h1>
+          <h1>
+            
+          </h1>
         </ul>
       </article>
     );
