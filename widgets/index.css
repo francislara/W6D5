@@ -1,0 +1,11 @@
+h1, h2 {
+  font-family: 'Lobster', serif;
+}
+
+.date-time {
+  display: flex;
+  justify-content: space-between;
+  padding: 100px;
+  background-color: #bc9540;
+  color: #f200ff;
+}
